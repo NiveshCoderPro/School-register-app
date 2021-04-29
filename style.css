@@ -1,0 +1,27 @@
+input {
+    margin-left:5px;
+    color:black;
+    border-color: aquamarine;
+    border-width: 5px;
+    background-color: rgb(0, 255, 136);
+}
+#sort {
+    display:none;
+}
+button {
+    margin-top:10px;
+    background-color: blue;
+    color:rgb(43, 183, 226);
+    border-radius: 100%;
+}
+body {
+    background-color: chocolate;
+}
+span {
+    color:rebeccapurple;
+}
+h1 {
+    font-family: 'Play';
+    color:blueviolet;
+    font-size: 30px;
+}
